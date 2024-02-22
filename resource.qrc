@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Rainbow-at-Victoria.png</file>
+        <file>Rainbow-at-Victoria.jpg</file>
+        <file>innora.jpg</file>
+    </qresource>
+</RCC>
